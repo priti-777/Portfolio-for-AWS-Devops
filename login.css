@@ -9,8 +9,8 @@ header {
 }
 
 header img {
-    width: 80x;
-    height: 80px;
+    width: 2000x;
+    height:2080px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
@@ -134,7 +134,7 @@ body {
     }
 }
 
-@media screen and (max-width: 4s00px) {
+@media screen and (max-width: 400px) {
     .page-header {
         padding: 10px 0;
     }
